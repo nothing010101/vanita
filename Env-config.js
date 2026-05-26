@@ -1,0 +1,10 @@
+window.__ENV = {
+  VITE_API_URL: "",
+  VITE_HOUSTON_URL: "https://houston.bot.fun",
+  VITE_PLAUSIBLE_DOMAIN: "bot.fun",
+  VITE_WALLET_CONNECT_PROJECT_ID: "",
+  VITE_FARO_ENABLED: "true",
+  VITE_FARO_COLLECTOR_URL: "",
+  VITE_FARO_NAMESPACE: "",
+  VITE_APP_VERSION: "1.0.1",
+};
